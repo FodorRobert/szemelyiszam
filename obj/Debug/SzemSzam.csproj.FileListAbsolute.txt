@@ -1,0 +1,7 @@
+C:\Users\fodorr\Gitwork\SzemSzam\obj\Debug\SzemSzam.csproj.AssemblyReference.cache
+C:\Users\fodorr\Gitwork\SzemSzam\obj\Debug\SzemSzam.csproj.CoreCompileInputs.cache
+C:\Users\fodorr\Gitwork\SzemSzam\bin\Debug\SzemSzam.exe.config
+C:\Users\fodorr\Gitwork\SzemSzam\bin\Debug\SzemSzam.exe
+C:\Users\fodorr\Gitwork\SzemSzam\bin\Debug\SzemSzam.pdb
+C:\Users\fodorr\Gitwork\SzemSzam\obj\Debug\SzemSzam.exe
+C:\Users\fodorr\Gitwork\SzemSzam\obj\Debug\SzemSzam.pdb
